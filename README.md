@@ -10,3 +10,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He
 - ⚡ Fun fact: I have 0 coding skill lol
 -->
+
+- 🔭 I’m currently working on Megaclite.lol
+- 🌱 I’m currently learning Java
+- 😄 Pronouns: He
+- ⚡ Fun fact: I have 0 coding skill lol
+-->
+
